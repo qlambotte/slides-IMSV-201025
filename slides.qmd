@@ -1,0 +1,202 @@
+---
+title: "Introduction mathématique aux sciences de la vie"
+subtitle: "Séance d'exercices du 20/10/25"
+lang: fr
+format: 
+ revealjs:
+      theme: [default, clean.scss]
+      qrcode: 'assets/qrcode.png'
+      pdfl: '[Télécharger le PDF](assets/slides.pdf){.pdf-link target="_blank"}'
+      menu:
+        side: left
+      slide-number: true
+      transition: fade
+      revealjs-plugins:
+        - tldreveal
+      template-partials:
+        - title-slide.html
+
+---
+::: {.content-hidden}
+
+\newcommand{\dom}[1]{\text{dom}{\left(#1\right)}}
+\newcommand{\IR}{\mathbb{R}}
+\newcommand{\e}{\text{e}}
+
+\newcommand{\vect}[1]{\overrightarrow{#1}}
+\newcommand{\nv}[1]{\lVert\overrightarrow{#1}\rVert}
+
+:::
+
+
+## Planning de la semaine
+
+- Exercices: aujourd'hui ET mercredi.
+- Remédiation: cette semaine remédiation Q/R ce lundi!
+
+
+## Domaines: calcul algébriques
+
+## $f(x)=\dfrac{1}{(x^2-4)(x^2+7x+12)}$
+
+## $f(x)=\ln(2x^2-5x+2)$
+
+##
+
+## $f(x)=\dfrac{\sqrt{x^2-9}}{\sqrt{x^2-4x}}$
+
+##
+
+## $f(x)=\sqrt{\dfrac{{x^2-9}}{{x^2-4x}}}$
+
+##
+
+## $f(x)=\dfrac{\e^x+\e^{-x}}{2}$
+
+## Domaines: observation graphique
+
+![](figures/fig10.png)
+
+## Domaines: observation graphique
+
+![](figures/fig11.png)
+
+## Parité
+
+La parité d'une fonction mesure la symétrie du graphe de $f$:
+
+- par rapport à l'axe des $y$: si le graphe de $f$ est symétrique par rapport à l'axe $y$, alors $f$ est dite paire (cela implique que le domaine de $f$ est symétrique par rapport à l'axe $y$)
+
+- par rapport au centre du repère: si le graphe de $f$ est symétrique par rapport au centre du repère, alors $f$ est dite impaire (cela implique aussi que le domaine est symétrique par rapport à l'axe $y$).
+
+## Parité: point de vue algébrique
+
+- $f$ est paire ssi $\forall x\in \text{dom}(f)(-x\in \text{dom}(f)\text{ et }f(-x)=f(x))$
+
+- $f$ est impaire ssi $\forall x\in \text{dom}(f)(-x\in \text{dom}(f)\text{ et }f(-x)=-f(x))$
+
+# Déterminer la parité d'une fonction
+
+## $f(x)=|x|$
+
+## $f(x)= 2x+1$
+
+## $f(x)=x^2+1$
+
+## $f(x)=(x+1)^2$
+
+# Exercice C, page 7
+
+## $f(x)=17-x^2$
+
+## $f(x)=\dfrac{x}{x^2-5}$
+
+## $f(x)=\dfrac{x^3-1}{\sqrt[3]{x}}$
+
+## $f(x)=\sqrt{x+7}$
+
+# Opérations sur les fonctions
+
+Soit $f$ et $g$ deux fonctions. Les opérations sur ces fonctions sont définie à travers leurs expressions analytiques:
+
+## Somme et différence
+$(f\pm g)$ est la fonction définie par 
+
+$$
+(f\pm g)(x)=f(x)\pm g(x).
+$$
+
+De plus, $\dom{f\pm g}=\dom{f}\cap \dom{g}$.
+
+
+## Produit
+
+$(f\cdot  g)$ est la fonction définie par 
+
+$$
+(f\cdot g)(x)=f(x)\cdot g(x).
+$$
+
+De plus, $\dom{f\cdot g}=\dom{f}\cap \dom{g}$.
+
+## Quotient
+
+$\dfrac{f}{g}$ est la fonction définie par 
+
+$$
+\left(\dfrac{f}{g}\right)(x)=\dfrac{f(x)}{g(x)}.
+$$
+
+De plus, $\dom{\dfrac{f}{g}}=\dom{f}\cap \dom{g}\backslash\{x\in\dom{g}|g(x)=0\}$.
+
+## Composition
+
+$f\circ g$ est la fonction définie par
+
+$$
+(f\circ g)(x)=f(g(x))
+$$
+
+De plus, $\dom{f\cdot g}=\{x\in\dom{g}|g(x)\in\dom{f}\}$
+
+**Attention!:** la composée n'est pas une opération commutative: $f\circ g\neq g\circ g$.
+
+## Exercice 2.2.B) (p. 9)
+Soient $f$ et $g$ deux fonctions. Déterminer une expression analytique de $f\circ g$ et $g\circ f$.
+
+- $f(x)=x^2$ et $g(x)=\cos(x)$
+
+## Exercice 2.2.B)
+Soient $f$ et $g$ deux fonctions. Déterminer une expression analytique de $f\circ g$ et $g\circ f$.
+
+- $f(x)=\sqrt{x}$ et $g(x)=\ln(x)$
+
+## Exercice 2.2.B)
+Soient $f$ et $g$ deux fonctions. Déterminer une expression analytique de $f\circ g$ et $g\circ f$.
+
+- $f(x)=\dfrac{x-1}{1+x}$ et $g(x)=x^3$
+
+## Exercice 2.2.B)
+Soient $f$ et $g$ deux fonctions. Déterminer une expression analytique de $f\circ g$ et $g\circ f$.
+
+- $f(x)=\e^x$ et $g(x)=42\ln(x)$
+
+## Exercice 2.2.B)
+Soient $f$ et $g$ deux fonctions. Déterminer une expression analytique de $f\circ g$ et $g\circ f$.
+
+- $f(x)=\sin(2x)$ et $g(x)=4-7x$
+
+## Exercice 2.2.B)
+Soient $f$ et $g$ deux fonctions. Déterminer une expression analytique de $f\circ g$ et $g\circ f$.
+
+- $f(x)=\sin(x)$ et $g(x)=|1-x|$
+
+
+## Réciproque d'une fonction
+
+**Définition:** Soit $f$ une fonction. La réciproque de $f$ est une fonction (si elle existe) $g$ telle que $f\circ g=g\circ f=\text{Id}$.
+
+Graphiquement, la réciproque de $f$ est s'obtient par symétrique d'axe $x=y$.
+
+## Réciproque d'une fonction
+**Exemple:** $x^3$ a pour réciproque $\sqrt[3]{x}$.
+
+## Réciproque d'une fonction
+
+**Exemple:** $x^2$ n'a pas de réciproque. Mais restreinte à $\IR^{\ge 0}$, alors $x^2$ a une réciproque, la fonction $\sqrt{x}$.
+
+## Déterminer algébriquement une réciproque (2.2.C)
+
+$f(x)=2x+3$
+
+## $f(x)=|x|+2$
+
+## $f(x)=x^2-6x+9$
+
+## $f(x)=\dfrac{1-x}{x}$
+
+## $\dfrac{2x+1}{x+3}$
+
+## $f(x)=\sqrt[3]{x+1}$
+
+

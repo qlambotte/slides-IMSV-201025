@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "slides.html#planning-de-la-semaine",
+    "href": "slides.html#planning-de-la-semaine",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Planning de la semaine",
+    "text": "Planning de la semaine\n\nExercices: aujourd’hui ET mercredi.\nRemédiation: cette semaine remédiation Q/R ce lundi!"
+  },
+  {
+    "objectID": "slides.html#domaines-calcul-algébriques",
+    "href": "slides.html#domaines-calcul-algébriques",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Domaines: calcul algébriques",
+    "text": "Domaines: calcul algébriques"
+  },
+  {
+    "objectID": "slides.html#fxdfrac1x2-4x27x12",
+    "href": "slides.html#fxdfrac1x2-4x27x12",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\dfrac{1}{(x^2-4)(x^2+7x+12)}\\)",
+    "text": "\\(f(x)=\\dfrac{1}{(x^2-4)(x^2+7x+12)}\\)"
+  },
+  {
+    "objectID": "slides.html#fxln2x2-5x2",
+    "href": "slides.html#fxln2x2-5x2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\ln(2x^2-5x+2)\\)",
+    "text": "\\(f(x)=\\ln(2x^2-5x+2)\\)"
+  },
+  {
+    "objectID": "slides.html#fxdfracsqrtx2-9sqrtx2-4x",
+    "href": "slides.html#fxdfracsqrtx2-9sqrtx2-4x",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\dfrac{\\sqrt{x^2-9}}{\\sqrt{x^2-4x}}\\)",
+    "text": "\\(f(x)=\\dfrac{\\sqrt{x^2-9}}{\\sqrt{x^2-4x}}\\)"
+  },
+  {
+    "objectID": "slides.html#fxsqrtdfracx2-9x2-4x",
+    "href": "slides.html#fxsqrtdfracx2-9x2-4x",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\sqrt{\\dfrac{{x^2-9}}{{x^2-4x}}}\\)",
+    "text": "\\(f(x)=\\sqrt{\\dfrac{{x^2-9}}{{x^2-4x}}}\\)"
+  },
+  {
+    "objectID": "slides.html#fxdfractextextexte-x2",
+    "href": "slides.html#fxdfractextextexte-x2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\dfrac{\\text{e}^x+\\text{e}^{-x}}{2}\\)",
+    "text": "\\(f(x)=\\dfrac{\\text{e}^x+\\text{e}^{-x}}{2}\\)"
+  },
+  {
+    "objectID": "slides.html#domaines-observation-graphique",
+    "href": "slides.html#domaines-observation-graphique",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Domaines: observation graphique",
+    "text": "Domaines: observation graphique"
+  },
+  {
+    "objectID": "slides.html#domaines-observation-graphique-1",
+    "href": "slides.html#domaines-observation-graphique-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Domaines: observation graphique",
+    "text": "Domaines: observation graphique"
+  },
+  {
+    "objectID": "slides.html#parité",
+    "href": "slides.html#parité",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Parité",
+    "text": "Parité\nLa parité d’une fonction mesure la symétrie du graphe de \\(f\\):\n\npar rapport à l’axe des \\(y\\): si le graphe de \\(f\\) est symétrique par rapport à l’axe \\(y\\), alors \\(f\\) est dite paire (cela implique que le domaine de \\(f\\) est symétrique par rapport à l’axe \\(y\\))\npar rapport au centre du repère: si le graphe de \\(f\\) est symétrique par rapport au centre du repère, alors \\(f\\) est dite impaire (cela implique aussi que le domaine est symétrique par rapport à l’axe \\(y\\))."
+  },
+  {
+    "objectID": "slides.html#parité-point-de-vue-algébrique",
+    "href": "slides.html#parité-point-de-vue-algébrique",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Parité: point de vue algébrique",
+    "text": "Parité: point de vue algébrique\n\n\\(f\\) est paire ssi \\(\\forall x\\in \\text{dom}(f)(-x\\in \\text{dom}(f)\\text{ et }f(-x)=f(x))\\)\n\\(f\\) est impaire ssi \\(\\forall x\\in \\text{dom}(f)(-x\\in \\text{dom}(f)\\text{ et }f(-x)=-f(x))\\)"
+  },
+  {
+    "objectID": "slides.html#fxx",
+    "href": "slides.html#fxx",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=|x|\\)",
+    "text": "\\(f(x)=|x|\\)"
+  },
+  {
+    "objectID": "slides.html#fx-2x1",
+    "href": "slides.html#fx-2x1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)= 2x+1\\)",
+    "text": "\\(f(x)= 2x+1\\)"
+  },
+  {
+    "objectID": "slides.html#fxx21",
+    "href": "slides.html#fxx21",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=x^2+1\\)",
+    "text": "\\(f(x)=x^2+1\\)"
+  },
+  {
+    "objectID": "slides.html#fxx12",
+    "href": "slides.html#fxx12",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=(x+1)^2\\)",
+    "text": "\\(f(x)=(x+1)^2\\)"
+  },
+  {
+    "objectID": "slides.html#fx17-x2",
+    "href": "slides.html#fx17-x2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=17-x^2\\)",
+    "text": "\\(f(x)=17-x^2\\)"
+  },
+  {
+    "objectID": "slides.html#fxdfracxx2-5",
+    "href": "slides.html#fxdfracxx2-5",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\dfrac{x}{x^2-5}\\)",
+    "text": "\\(f(x)=\\dfrac{x}{x^2-5}\\)"
+  },
+  {
+    "objectID": "slides.html#fxdfracx3-1sqrt3x",
+    "href": "slides.html#fxdfracx3-1sqrt3x",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\dfrac{x^3-1}{\\sqrt[3]{x}}\\)",
+    "text": "\\(f(x)=\\dfrac{x^3-1}{\\sqrt[3]{x}}\\)"
+  },
+  {
+    "objectID": "slides.html#fxsqrtx7",
+    "href": "slides.html#fxsqrtx7",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\sqrt{x+7}\\)",
+    "text": "\\(f(x)=\\sqrt{x+7}\\)"
+  },
+  {
+    "objectID": "slides.html#somme-et-différence",
+    "href": "slides.html#somme-et-différence",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Somme et différence",
+    "text": "Somme et différence\n\\((f\\pm g)\\) est la fonction définie par\n\\[\n(f\\pm g)(x)=f(x)\\pm g(x).\n\\]\nDe plus, \\(\\text{dom}{\\left(f\\pm g\\right)}=\\text{dom}{\\left(f\\right)}\\cap \\text{dom}{\\left(g\\right)}\\)."
+  },
+  {
+    "objectID": "slides.html#produit",
+    "href": "slides.html#produit",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Produit",
+    "text": "Produit\n\\((f\\cdot  g)\\) est la fonction définie par\n\\[\n(f\\cdot g)(x)=f(x)\\cdot g(x).\n\\]\nDe plus, \\(\\text{dom}{\\left(f\\cdot g\\right)}=\\text{dom}{\\left(f\\right)}\\cap \\text{dom}{\\left(g\\right)}\\)."
+  },
+  {
+    "objectID": "slides.html#quotient",
+    "href": "slides.html#quotient",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Quotient",
+    "text": "Quotient\n\\(\\dfrac{f}{g}\\) est la fonction définie par\n\\[\n\\left(\\dfrac{f}{g}\\right)(x)=\\dfrac{f(x)}{g(x)}.\n\\]\nDe plus, \\(\\text{dom}{\\left(\\dfrac{f}{g}\\right)}=\\text{dom}{\\left(f\\right)}\\cap \\text{dom}{\\left(g\\right)}\\backslash\\{x\\in\\text{dom}{\\left(g\\right)}|g(x)=0\\}\\)."
+  },
+  {
+    "objectID": "slides.html#composition",
+    "href": "slides.html#composition",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Composition",
+    "text": "Composition\n\\(f\\circ g\\) est la fonction définie par\n\\[\n(f\\circ g)(x)=f(g(x))\n\\]\nDe plus, \\(\\text{dom}{\\left(f\\cdot g\\right)}=\\{x\\in\\text{dom}{\\left(g\\right)}|g(x)\\in\\text{dom}{\\left(f\\right)}\\}\\)\nAttention!: la composée n’est pas une opération commutative: \\(f\\circ g\\neq g\\circ g\\)."
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.b-p.-9",
+    "href": "slides.html#exercice-2.2.b-p.-9",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.B) (p. 9)",
+    "text": "Exercice 2.2.B) (p. 9)\nSoient \\(f\\) et \\(g\\) deux fonctions. Déterminer une expression analytique de \\(f\\circ g\\) et \\(g\\circ f\\).\n\n\\(f(x)=x^2\\) et \\(g(x)=\\cos(x)\\)"
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.b",
+    "href": "slides.html#exercice-2.2.b",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.B)",
+    "text": "Exercice 2.2.B)\nSoient \\(f\\) et \\(g\\) deux fonctions. Déterminer une expression analytique de \\(f\\circ g\\) et \\(g\\circ f\\).\n\n\\(f(x)=\\sqrt{x}\\) et \\(g(x)=\\ln(x)\\)"
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.b-1",
+    "href": "slides.html#exercice-2.2.b-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.B)",
+    "text": "Exercice 2.2.B)\nSoient \\(f\\) et \\(g\\) deux fonctions. Déterminer une expression analytique de \\(f\\circ g\\) et \\(g\\circ f\\).\n\n\\(f(x)=\\dfrac{x-1}{1+x}\\) et \\(g(x)=x^3\\)"
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.b-2",
+    "href": "slides.html#exercice-2.2.b-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.B)",
+    "text": "Exercice 2.2.B)\nSoient \\(f\\) et \\(g\\) deux fonctions. Déterminer une expression analytique de \\(f\\circ g\\) et \\(g\\circ f\\).\n\n\\(f(x)=\\text{e}^x\\) et \\(g(x)=42\\ln(x)\\)"
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.b-3",
+    "href": "slides.html#exercice-2.2.b-3",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.B)",
+    "text": "Exercice 2.2.B)\nSoient \\(f\\) et \\(g\\) deux fonctions. Déterminer une expression analytique de \\(f\\circ g\\) et \\(g\\circ f\\).\n\n\\(f(x)=\\sin(2x)\\) et \\(g(x)=4-7x\\)"
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.b-4",
+    "href": "slides.html#exercice-2.2.b-4",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.B)",
+    "text": "Exercice 2.2.B)\nSoient \\(f\\) et \\(g\\) deux fonctions. Déterminer une expression analytique de \\(f\\circ g\\) et \\(g\\circ f\\).\n\n\\(f(x)=\\sin(x)\\) et \\(g(x)=|1-x|\\)"
+  },
+  {
+    "objectID": "slides.html#réciproque-dune-fonction",
+    "href": "slides.html#réciproque-dune-fonction",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Réciproque d’une fonction",
+    "text": "Réciproque d’une fonction\nDéfinition: Soit \\(f\\) une fonction. La réciproque de \\(f\\) est une fonction (si elle existe) \\(g\\) telle que \\(f\\circ g=g\\circ f=\\text{Id}\\).\nGraphiquement, la réciproque de \\(f\\) est s’obtient par symétrique d’axe \\(x=y\\)."
+  },
+  {
+    "objectID": "slides.html#réciproque-dune-fonction-1",
+    "href": "slides.html#réciproque-dune-fonction-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Réciproque d’une fonction",
+    "text": "Réciproque d’une fonction\nExemple: \\(x^3\\) a pour réciproque \\(\\sqrt[3]{x}\\)."
+  },
+  {
+    "objectID": "slides.html#réciproque-dune-fonction-2",
+    "href": "slides.html#réciproque-dune-fonction-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Réciproque d’une fonction",
+    "text": "Réciproque d’une fonction\nExemple: \\(x^2\\) n’a pas de réciproque. Mais restreinte à \\(\\mathbb{R}^{\\ge 0}\\), alors \\(x^2\\) a une réciproque, la fonction \\(\\sqrt{x}\\)."
+  },
+  {
+    "objectID": "slides.html#déterminer-algébriquement-une-réciproque-2.2.c",
+    "href": "slides.html#déterminer-algébriquement-une-réciproque-2.2.c",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Déterminer algébriquement une réciproque (2.2.C)",
+    "text": "Déterminer algébriquement une réciproque (2.2.C)\n\\(f(x)=2x+3\\)"
+  },
+  {
+    "objectID": "slides.html#fxx2",
+    "href": "slides.html#fxx2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=|x|+2\\)",
+    "text": "\\(f(x)=|x|+2\\)"
+  },
+  {
+    "objectID": "slides.html#fxx2-6x9",
+    "href": "slides.html#fxx2-6x9",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=x^2-6x+9\\)",
+    "text": "\\(f(x)=x^2-6x+9\\)"
+  },
+  {
+    "objectID": "slides.html#fxdfrac1-xx",
+    "href": "slides.html#fxdfrac1-xx",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\dfrac{1-x}{x}\\)",
+    "text": "\\(f(x)=\\dfrac{1-x}{x}\\)"
+  },
+  {
+    "objectID": "slides.html#dfrac2x1x3",
+    "href": "slides.html#dfrac2x1x3",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(\\dfrac{2x+1}{x+3}\\)",
+    "text": "\\(\\dfrac{2x+1}{x+3}\\)"
+  },
+  {
+    "objectID": "slides.html#fxsqrt3x1",
+    "href": "slides.html#fxsqrt3x1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "\\(f(x)=\\sqrt[3]{x+1}\\)",
+    "text": "\\(f(x)=\\sqrt[3]{x+1}\\)"
+  }
+]

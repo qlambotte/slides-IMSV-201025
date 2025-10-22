@@ -169,8 +169,8 @@
 <section id="section-2" class="slide level2">
 <h2></h2>
 </section>
-<section id="fxdfractextextexte-x2" class="slide level2">
-<h2><span class="math inline">\(f(x)=\dfrac{\text{e}^x+\text{e}^{-x}}{2}\)</span></h2>
+<section id="fxtextextexte-x" class="slide level2">
+<h2><span class="math inline">\(f(x)=\text{e}^x+\text{e}^{-x}\)</span></h2>
 </section>
 <section id="domaines-observation-graphique" class="slide level2">
 <h2>Domaines: observation graphique</h2>
@@ -308,38 +308,6 @@
 <ul>
 <li><span class="math inline">\(f(x)=\sin(x)\)</span> et <span class="math inline">\(g(x)=|1-x|\)</span></li>
 </ul>
-</section>
-<section id="réciproque-dune-fonction" class="slide level2">
-<h2>Réciproque d’une fonction</h2>
-<p><strong>Définition:</strong> Soit <span class="math inline">\(f\)</span> une fonction. La réciproque de <span class="math inline">\(f\)</span> est une fonction (si elle existe) <span class="math inline">\(g\)</span> telle que <span class="math inline">\(f\circ g=g\circ f=\text{Id}\)</span>.</p>
-<p>Graphiquement, la réciproque de <span class="math inline">\(f\)</span> est s’obtient par symétrique d’axe <span class="math inline">\(x=y\)</span>.</p>
-</section>
-<section id="réciproque-dune-fonction-1" class="slide level2">
-<h2>Réciproque d’une fonction</h2>
-<p><strong>Exemple:</strong> <span class="math inline">\(x^3\)</span> a pour réciproque <span class="math inline">\(\sqrt[3]{x}\)</span>.</p>
-</section>
-<section id="réciproque-dune-fonction-2" class="slide level2">
-<h2>Réciproque d’une fonction</h2>
-<p><strong>Exemple:</strong> <span class="math inline">\(x^2\)</span> n’a pas de réciproque. Mais restreinte à <span class="math inline">\(\mathbb{R}^{\ge 0}\)</span>, alors <span class="math inline">\(x^2\)</span> a une réciproque, la fonction <span class="math inline">\(\sqrt{x}\)</span>.</p>
-</section>
-<section id="déterminer-algébriquement-une-réciproque-2.2.c" class="slide level2">
-<h2>Déterminer algébriquement une réciproque (2.2.C)</h2>
-<p><span class="math inline">\(f(x)=2x+3\)</span></p>
-</section>
-<section id="fxx2" class="slide level2">
-<h2><span class="math inline">\(f(x)=|x|+2\)</span></h2>
-</section>
-<section id="fxx2-6x9" class="slide level2">
-<h2><span class="math inline">\(f(x)=x^2-6x+9\)</span></h2>
-</section>
-<section id="fxdfrac1-xx" class="slide level2">
-<h2><span class="math inline">\(f(x)=\dfrac{1-x}{x}\)</span></h2>
-</section>
-<section id="dfrac2x1x3" class="slide level2">
-<h2><span class="math inline">\(\dfrac{2x+1}{x+3}\)</span></h2>
-</section>
-<section id="fxsqrt3x1" class="slide level2">
-<h2><span class="math inline">\(f(x)=\sqrt[3]{x+1}\)</span></h2>
 
 
 </section></section>
@@ -630,7 +598,7 @@
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp('/' + window.location.host + '/');
+            var filterRegex = new RegExp("https:\/\/qlambotte\.github\.io\/slides-IMSV-201025\/");
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }

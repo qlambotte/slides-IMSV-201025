@@ -42,11 +42,11 @@
     "text": "\\(f(x)=\\sqrt{\\dfrac{{x^2-9}}{{x^2-4x}}}\\)"
   },
   {
-    "objectID": "slides.html#fxdfractextextexte-x2",
-    "href": "slides.html#fxdfractextextexte-x2",
+    "objectID": "slides.html#fxtextextexte-x",
+    "href": "slides.html#fxtextextexte-x",
     "title": "Introduction mathématique aux sciences de la vie",
-    "section": "\\(f(x)=\\dfrac{\\text{e}^x+\\text{e}^{-x}}{2}\\)",
-    "text": "\\(f(x)=\\dfrac{\\text{e}^x+\\text{e}^{-x}}{2}\\)"
+    "section": "\\(f(x)=\\text{e}^x+\\text{e}^{-x}\\)",
+    "text": "\\(f(x)=\\text{e}^x+\\text{e}^{-x}\\)"
   },
   {
     "objectID": "slides.html#domaines-observation-graphique",
@@ -201,68 +201,5 @@
     "title": "Introduction mathématique aux sciences de la vie",
     "section": "Exercice 2.2.B)",
     "text": "Exercice 2.2.B)\nSoient \\(f\\) et \\(g\\) deux fonctions. Déterminer une expression analytique de \\(f\\circ g\\) et \\(g\\circ f\\).\n\n\\(f(x)=\\sin(x)\\) et \\(g(x)=|1-x|\\)"
-  },
-  {
-    "objectID": "slides.html#réciproque-dune-fonction",
-    "href": "slides.html#réciproque-dune-fonction",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "Réciproque d’une fonction",
-    "text": "Réciproque d’une fonction\nDéfinition: Soit \\(f\\) une fonction. La réciproque de \\(f\\) est une fonction (si elle existe) \\(g\\) telle que \\(f\\circ g=g\\circ f=\\text{Id}\\).\nGraphiquement, la réciproque de \\(f\\) est s’obtient par symétrique d’axe \\(x=y\\)."
-  },
-  {
-    "objectID": "slides.html#réciproque-dune-fonction-1",
-    "href": "slides.html#réciproque-dune-fonction-1",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "Réciproque d’une fonction",
-    "text": "Réciproque d’une fonction\nExemple: \\(x^3\\) a pour réciproque \\(\\sqrt[3]{x}\\)."
-  },
-  {
-    "objectID": "slides.html#réciproque-dune-fonction-2",
-    "href": "slides.html#réciproque-dune-fonction-2",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "Réciproque d’une fonction",
-    "text": "Réciproque d’une fonction\nExemple: \\(x^2\\) n’a pas de réciproque. Mais restreinte à \\(\\mathbb{R}^{\\ge 0}\\), alors \\(x^2\\) a une réciproque, la fonction \\(\\sqrt{x}\\)."
-  },
-  {
-    "objectID": "slides.html#déterminer-algébriquement-une-réciproque-2.2.c",
-    "href": "slides.html#déterminer-algébriquement-une-réciproque-2.2.c",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "Déterminer algébriquement une réciproque (2.2.C)",
-    "text": "Déterminer algébriquement une réciproque (2.2.C)\n\\(f(x)=2x+3\\)"
-  },
-  {
-    "objectID": "slides.html#fxx2",
-    "href": "slides.html#fxx2",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "\\(f(x)=|x|+2\\)",
-    "text": "\\(f(x)=|x|+2\\)"
-  },
-  {
-    "objectID": "slides.html#fxx2-6x9",
-    "href": "slides.html#fxx2-6x9",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "\\(f(x)=x^2-6x+9\\)",
-    "text": "\\(f(x)=x^2-6x+9\\)"
-  },
-  {
-    "objectID": "slides.html#fxdfrac1-xx",
-    "href": "slides.html#fxdfrac1-xx",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "\\(f(x)=\\dfrac{1-x}{x}\\)",
-    "text": "\\(f(x)=\\dfrac{1-x}{x}\\)"
-  },
-  {
-    "objectID": "slides.html#dfrac2x1x3",
-    "href": "slides.html#dfrac2x1x3",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "\\(\\dfrac{2x+1}{x+3}\\)",
-    "text": "\\(\\dfrac{2x+1}{x+3}\\)"
-  },
-  {
-    "objectID": "slides.html#fxsqrt3x1",
-    "href": "slides.html#fxsqrt3x1",
-    "title": "Introduction mathématique aux sciences de la vie",
-    "section": "\\(f(x)=\\sqrt[3]{x+1}\\)",
-    "text": "\\(f(x)=\\sqrt[3]{x+1}\\)"
   }
 ]

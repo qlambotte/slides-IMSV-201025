@@ -51,7 +51,7 @@ format:
 
 ##
 
-## $f(x)=\dfrac{\e^x+\e^{-x}}{2}$
+## $f(x)=\e^x+\e^{-x}$
 
 ## Domaines: observation graphique
 
@@ -170,33 +170,4 @@ Soient $f$ et $g$ deux fonctions. Déterminer une expression analytique de $f\ci
 Soient $f$ et $g$ deux fonctions. Déterminer une expression analytique de $f\circ g$ et $g\circ f$.
 
 - $f(x)=\sin(x)$ et $g(x)=|1-x|$
-
-
-## Réciproque d'une fonction
-
-**Définition:** Soit $f$ une fonction. La réciproque de $f$ est une fonction (si elle existe) $g$ telle que $f\circ g=g\circ f=\text{Id}$.
-
-Graphiquement, la réciproque de $f$ est s'obtient par symétrique d'axe $x=y$.
-
-## Réciproque d'une fonction
-**Exemple:** $x^3$ a pour réciproque $\sqrt[3]{x}$.
-
-## Réciproque d'une fonction
-
-**Exemple:** $x^2$ n'a pas de réciproque. Mais restreinte à $\IR^{\ge 0}$, alors $x^2$ a une réciproque, la fonction $\sqrt{x}$.
-
-## Déterminer algébriquement une réciproque (2.2.C)
-
-$f(x)=2x+3$
-
-## $f(x)=|x|+2$
-
-## $f(x)=x^2-6x+9$
-
-## $f(x)=\dfrac{1-x}{x}$
-
-## $\dfrac{2x+1}{x+3}$
-
-## $f(x)=\sqrt[3]{x+1}$
-
 
